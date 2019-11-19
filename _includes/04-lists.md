@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Hanzo
+- Genji
+- Reaper
+- Bastion
+- Reinhardt
+- Wreckingball
+- Anna
