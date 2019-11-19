@@ -1,0 +1,7 @@
+- Hanzo
+- Genji
+- Reaper
+- Bastion
+- Reinhardt
+- Wreckingball
+- Anna
